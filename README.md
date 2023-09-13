@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @isaacgor216
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me -- email: isaacgor216@gmail.com
 
 <!---
